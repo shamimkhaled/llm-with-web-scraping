@@ -3,7 +3,7 @@
 ### Overview
 Data Extraction with LLM (Language Model) is a Streamlit application designed to extract data from URLs using Langchain library and the OpenAI API. It facilitates users to input a URL link and retrieve data in JSON format from the OpenAI model.
 
-### Live Deployment Site [https://llm-with-web-scraping-9.streamlit.app/]
+### Live Deployment Site 
 The live deployment of this application can be accessed here: https://llm-with-web-scraping-9.streamlit.app/
 
 ### Prerequisites
